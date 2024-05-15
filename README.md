@@ -7,7 +7,7 @@ A simple and elegant web application that displays random quotes. Users can get 
 
 Demo:
 
-You can view a live demo of the Quote Generator ()
+You can view a live demo of the Quote Generator ( https://gurujyothiii.github.io/Quote-Generator/)
 
 Features:
 
